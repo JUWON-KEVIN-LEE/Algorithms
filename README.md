@@ -14,10 +14,10 @@
 
 
 #### [180205]
-[growingPlant](https://github.com/JUWON-KEVIN-LEE/Algorithms/tree/master/180205)
+[GrowingPlant](https://github.com/JUWON-KEVIN-LEE/Algorithms/tree/master/180205)
 
 
-[knapsackLight](https://github.com/JUWON-KEVIN-LEE/Algorithms/tree/master/180205)
+[KnapsackLight](https://github.com/JUWON-KEVIN-LEE/Algorithms/tree/master/180205)
 
 
-[longestDigitsPrefix](https://github.com/JUWON-KEVIN-LEE/Algorithms/tree/master/180205)
+[LongestDigitsPrefix](https://github.com/JUWON-KEVIN-LEE/Algorithms/tree/master/180205)
